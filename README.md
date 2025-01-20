@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cullencd
 - 👀 I’m interested in cyber security & AI/OpenAI/LLM
-- 🌱 I’m currently learning spanish
+- 🌱
 - 💞️ I’m looking to collaborate on Reuters Security
 -  Contact me if you can.
 
